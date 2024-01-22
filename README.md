@@ -5,5 +5,5 @@ Use it by adding the following to `/etc/pacman.conf`
 ```
 [pollinger]
 SigLevel = Optional
-Server = https://pkg.pollinger.dev/arch/x86_64
+Server = https://neferin12.github.io/repos/arch/x86_64
 ```
